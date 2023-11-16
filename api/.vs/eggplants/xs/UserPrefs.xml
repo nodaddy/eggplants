@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{1885790F-0557-4C4F-B8BE-E8969094C782}|https">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Program.cs">
+    <Files>
+      <File FileName="Properties/launchSettings.json" />
+      <File FileName="Program.cs" Line="14" Column="51" />
+      <File FileName="Controllers/WeatherForecastController.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="eggplants" expanded="True">
+            <Node name="eggplants" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.eggplants PreferredExecutionTarget="/Applications/Google Chrome.app" />
+</Properties>

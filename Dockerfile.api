@@ -1,0 +1,10 @@
+# This code is able to run the service in the container but I am not abble to access it in the laptop loclahost (on the host port)
+
+FROM mcr.microsoft.com/dotnet/sdk:7.0-alpine
+WORKDIR /usr/src/app
+COPY api .
+RUN dotnet restore "eggplants.csproj"
+RUN dotnet publish "eggplants.csproj" -c Release -o /publish
+WORKDIR /publish
+ENV ASPNETCORE_URLS=http://+:5000
+ENTRYPOINT [ "dotnet", "eggplants.dll" ]

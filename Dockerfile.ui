@@ -1,0 +1,5 @@
+FROM node as ui-base
+WORKDIR /usr/src/app
+COPY /ui .
+RUN npm install
+CMD "npm" "start"

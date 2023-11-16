@@ -1,0 +1,12 @@
+/Users/neeleshsharma/Desktop/eggplants/api/bin/Debug/net7.0/publish/eggplants
+/Users/neeleshsharma/Desktop/eggplants/api/bin/Debug/net7.0/publish/appsettings.Development.json
+/Users/neeleshsharma/Desktop/eggplants/api/bin/Debug/net7.0/publish/appsettings.json
+/Users/neeleshsharma/Desktop/eggplants/api/bin/Debug/net7.0/publish/eggplants.dll
+/Users/neeleshsharma/Desktop/eggplants/api/bin/Debug/net7.0/publish/eggplants.deps.json
+/Users/neeleshsharma/Desktop/eggplants/api/bin/Debug/net7.0/publish/eggplants.runtimeconfig.json
+/Users/neeleshsharma/Desktop/eggplants/api/bin/Debug/net7.0/publish/eggplants.pdb
+/Users/neeleshsharma/Desktop/eggplants/api/bin/Debug/net7.0/publish/Microsoft.AspNetCore.OpenApi.dll
+/Users/neeleshsharma/Desktop/eggplants/api/bin/Debug/net7.0/publish/Microsoft.OpenApi.dll
+/Users/neeleshsharma/Desktop/eggplants/api/bin/Debug/net7.0/publish/Swashbuckle.AspNetCore.Swagger.dll
+/Users/neeleshsharma/Desktop/eggplants/api/bin/Debug/net7.0/publish/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/neeleshsharma/Desktop/eggplants/api/bin/Debug/net7.0/publish/Swashbuckle.AspNetCore.SwaggerUI.dll
